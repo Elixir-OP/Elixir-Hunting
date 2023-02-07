@@ -1,6 +1,7 @@
 # Elixir Hunting
-OPEN SOURCE Available here: https://elixirfw.tebex.io/package/Soon
-ESCROWED Available here: https://elixirfw.tebex.io/package/Soon
+OPEN SOURCE Available here: https://elixirfw.tebex.io/package/5515717
+
+ESCROWED Available here: https://elixirfw.tebex.io/package/5515715
 
 # Info
 In our script we have created a version that will allow you to hunt animals, to pick up their meat, and then to sell them at a place in which you have the option of buying hunting weapons and ammo as well as using a hunting knife to cut down the animals and sell the meat. Is compatible with QB-target.
